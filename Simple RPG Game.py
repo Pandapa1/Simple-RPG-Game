@@ -60,7 +60,8 @@ class Game:
             print("You were defeated!")
 
 
-# Usage Example
+# start the game
 game = Game()
 game.choose_character()
 game.start_battle()
+    
